@@ -12,4 +12,9 @@ void input_scores(int[]);
 void evaluation(int[], int[]);
 void classification(int[], int[]);
 void output_results(int[], int[]);
+<<<<<<< HEAD
 // this is  added  by  shell.ouv.fi
+=======
+// this is added by github 
+
+>>>>>>> 3b701a9da2b58904dcecaaceb4b62ab8c2617958
