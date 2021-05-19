@@ -6,12 +6,10 @@
 // 1. Constant definition 
 // 2. Data structure definitions 
 // 3. funtion prototypes(a.k.a function decleration)
-
-//this comment is added by github
 #define MAX 30
 // this comment is added from local 
 void input_scores(int[]);
 void evaluation(int[], int[]);
 void classification(int[], int[]);
 void output_results(int[], int[]);
-//this comment is the 3rd version#pragma once
+
